@@ -40,14 +40,63 @@
 
 ### 🚀 Featured work
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🏭 **[El Sewedy · Sawa](https://dobydragon.github.io/elsewedy-sawa-portfolio/)** | Employee self-service HR app for El Sewedy Industries: geofenced check-in/out, leaves, payroll, org chart | Flutter · Cubit · Dio · Geolocation |
-| 🏢 **[Zad HR](https://dobydragon.github.io/zad-hr-portfolio/)** | Bilingual multi-tenant HR platform: attendance, leaves, payroll, loans, complaints | Flutter · Bloc · Odoo · Firebase |
-| 🤝 **[Aman](https://dobydragon.github.io/aman-portfolio/)** | Humanitarian platform for refugees & newcomers: community chat, therapy booking, legal resources, 12 languages | Flutter · Firebase · RTL |
-| 🐦 **[Tweety](https://dobydragon.github.io/tweety-portfolio/)** | Twitter-style social app: real-time feed, likes, comments, DMs, media upload | Flutter · Firebase · Bloc |
-| 📖 **[Fatwa](https://github.com/dobydragon/fatwa)** | Islamic-finance fatwa library: browse Sharia-board rulings by topic, search, committee profiles, Arabic-first UI | Flutter · Firebase · Supabase · Hive |
-| 📈 **[Borsa Halal](https://dobydragon.github.io/borsa-halal/)** | Arabic educational site on Sharia-compliant investing, with every claim linked to its source | HTML · CSS · JavaScript |
+#### 🏭 El Sewedy · Sawa — Employee self-service HR app
+Internal app for **El Sewedy Industries** employees: GPS-geofenced check-in/out, attendance log, payroll statements, leave requests and an org chart, with full English / Arabic (RTL).
+
+`Flutter` `Cubit` `Dio` `Geolocation` · **[Case study →](https://dobydragon.github.io/elsewedy-sawa-portfolio/)**
+
+<p>
+  <img src="https://dobydragon.github.io/elsewedy-sawa-portfolio/assets/screenshots/welcome.png" height="360" alt="Sawa welcome"/>
+  <img src="https://dobydragon.github.io/elsewedy-sawa-portfolio/assets/screenshots/home-dashboard.png" height="360" alt="Sawa home dashboard"/>
+  <img src="https://dobydragon.github.io/elsewedy-sawa-portfolio/assets/screenshots/check-out.png" height="360" alt="Sawa swipe to check out"/>
+  <img src="https://dobydragon.github.io/elsewedy-sawa-portfolio/assets/screenshots/payroll-overview.png" height="360" alt="Sawa payroll"/>
+</p>
+
+#### 🏢 Zad HR — Bilingual multi-tenant HR platform
+One app for many companies on an **Odoo** backend: attendance with location validation, leaves, payroll & payslips, loans with approval flow, and employee complaints.
+
+`Flutter` `Bloc / Cubit` `Odoo` `Firebase` · **[Case study →](https://dobydragon.github.io/zad-hr-portfolio/)**
+
+<p>
+  <img src="https://dobydragon.github.io/zad-hr-portfolio/assets/screenshots/attendance-5.jpg" height="360" alt="Zad HR attendance (English)"/>
+  <img src="https://dobydragon.github.io/zad-hr-portfolio/assets/screenshots/attendance-6.jpg" height="360" alt="Zad HR attendance (Arabic)"/>
+  <img src="https://dobydragon.github.io/zad-hr-portfolio/assets/screenshots/loan-4.jpg" height="360" alt="Zad HR create loan"/>
+  <img src="https://dobydragon.github.io/zad-hr-portfolio/assets/screenshots/complaints-3.jpg" height="360" alt="Zad HR create complaint"/>
+</p>
+
+#### 🤝 Aman — Community & support platform for refugees and newcomers
+Helps newcomers settle in: community groups with real-time chat, booking sessions with psychologists, a legal-rights guide and local help organizations, in **12 languages**.
+
+`Flutter` `Firebase` `Realtime chat` `i18n / RTL` · **[Case study →](https://dobydragon.github.io/aman-portfolio/)**
+
+<p>
+  <img src="https://dobydragon.github.io/aman-portfolio/assets/screenshots/aman/aman-02.jpg" height="360" alt="Aman home"/>
+  <img src="https://dobydragon.github.io/aman-portfolio/assets/screenshots/aman/aman-20.jpg" height="360" alt="Aman legal support"/>
+  <img src="https://dobydragon.github.io/aman-portfolio/assets/screenshots/aman/aman-22.jpg" height="360" alt="Aman psychological support"/>
+  <img src="https://dobydragon.github.io/aman-portfolio/assets/screenshots/aman/aman-29.jpg" height="360" alt="Aman rights guide"/>
+</p>
+
+#### 🐦 Tweety — Real-time social network
+Twitter-style app: live feed with posts, likes and comments, direct messages, profiles with media upload, user search, email-verified auth, light & dark themes.
+
+`Flutter` `Firebase` `Bloc / Cubit` · **[Case study →](https://dobydragon.github.io/tweety-portfolio/)**
+
+<p>
+  <img src="https://dobydragon.github.io/tweety-portfolio/assets/screens/feed.jpg" height="380" alt="Tweety feed"/>
+  <img src="https://dobydragon.github.io/tweety-portfolio/assets/screens/chats-light.jpg" height="380" alt="Tweety chats"/>
+</p>
+
+#### 📈 Borsa Halal — Learn Sharia-compliant investing
+Arabic learning hub for investing & trading with Islamic rulings: lessons from zero, an 89-term glossary, quizzes, product reviews and a source-checked analysis of a Telegram channel. Every claim links to its reference.
+
+`HTML` `CSS` `JavaScript` · **[Live site →](https://dobydragon.github.io/borsa-halal/)**
+
+<p><img src="assets/borsa-halal.png" width="720" alt="Borsa Halal dashboard"/></p>
+
+#### 📖 Fatwa — Islamic-finance fatwa library
+Arabic-first app to browse Sharia-board rulings on Islamic finance by topic, search them and read committee member profiles.
+
+`Flutter` `Firebase` `Supabase` `Hive` · **[Repo →](https://github.com/dobydragon/fatwa)**
 
 > 🐉 **Currently building:** *Dooby* — a robot driven by a Flutter app → Raspberry Pi 5 (Python) → Arduino motor controllers.
 
