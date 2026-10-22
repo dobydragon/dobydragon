@@ -46,7 +46,7 @@
 | 🏢 **[Zad HR](https://dobydragon.github.io/zad-hr-portfolio/)** | Bilingual multi-tenant HR platform: attendance, leaves, payroll, loans, complaints | Flutter · Bloc · Odoo · Firebase |
 | 🤝 **[Aman](https://dobydragon.github.io/aman-portfolio/)** | Humanitarian platform for refugees & newcomers: community chat, therapy booking, legal resources, 12 languages | Flutter · Firebase · RTL |
 | 🐦 **[Tweety](https://dobydragon.github.io/tweety-portfolio/)** | Twitter-style social app: real-time feed, likes, comments, DMs, media upload | Flutter · Firebase · Bloc |
-| 📖 **[Fatwa](https://github.com/dobydragon/fatwa)** | Islamic fatwa library app: browse by topic, search, scholar profiles, Arabic-first UI | Flutter · Firebase · Supabase · Hive |
+| 📖 **[Fatwa](https://github.com/dobydragon/fatwa)** | Islamic-finance fatwa library: browse Sharia-board rulings by topic, search, committee profiles, Arabic-first UI | Flutter · Firebase · Supabase · Hive |
 | 📈 **[Borsa Halal](https://dobydragon.github.io/borsa-halal/)** | Arabic educational site on Sharia-compliant investing, with every claim linked to its source | HTML · CSS · JavaScript |
 
 > 🐉 **Currently building:** *Dooby* — a robot driven by a Flutter app → Raspberry Pi 5 (Python) → Arduino motor controllers.
